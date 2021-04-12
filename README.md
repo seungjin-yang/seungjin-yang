@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* [Goole Scholar](https://scholar.google.co.kr/citations?user=W33YDLgAAAAJ&hl=ko)
+* [Inspire HEP](https://inspirehep.net/authors/1806321)
+
 <!--
 **seungjin-yang/seungjin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
